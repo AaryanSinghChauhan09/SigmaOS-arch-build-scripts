@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-//! SigmaOS-arch-build-scripts — SigmaOS arch-build-scripts component inspired by Linux Mint / Omarchy / Arch Linux.
+//! SigmaOS-build-scripts — SigmaOS build-scripts component inspired by Linux Mint / SigmaOS / Arch Linux.
 //!
 //! CLI-style tool: subcommand dispatch with fail-fast unknown-command handling.
 //! Principles: single responsibility, fail-fast, defensive programming,

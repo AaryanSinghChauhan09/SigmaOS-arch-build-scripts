@@ -1,10 +1,10 @@
 [package]
-name = "sigmaos_arch_build_scripts"
+name = "sigmaos-build-scripts"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
-description = "SigmaOS arch-build-scripts component inspired by Linux Mint / Omarchy / Arch Linux."
+description = "SigmaOS build-scripts component inspired by Linux Mint / SigmaOS / Arch Linux."
 
 [lib]
-name = "sigmaos_arch_build_scripts"
+name = "sigmaos_build_scripts"
 path = "src/lib.rs"
